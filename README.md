@@ -27,7 +27,7 @@ result=np.linalg.solve(A,B)
 print(result)
 ```
 ## Output:
-<img width="1262" height="950" alt="Screenshot 2025-08-23 161857" src="https://github.com/user-attachments/assets/632179bd-4305-4a28-b404-6a58fcd2cfbc" />
+![alt text](image.png)
 
 
 ## Result: 
